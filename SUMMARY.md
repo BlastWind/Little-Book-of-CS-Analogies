@@ -4,18 +4,22 @@
 
 ## Operating System
 
-* [Designing a Pipelined CPU](operating-system/designing-a-pipelined-cpu.md)
-* [Process Synchronization Problem](operating-system/process-synchronization-problem.md)
-* [Caching Hierarchy](operating-system/caching-hierarchy.md)
+* [Designing a Pipelined CPU and Doing Laundry](operating-system/designing-a-pipelined-cpu-and-doing-laundry.md)
+* [Process Synchronization and Dining Philosophers](operating-system/process-synchronization-and-dining-philosophers.md)
+* [Caching Hierarchy and Buying Bread](operating-system/caching-hierarchy-and-buying-bread.md)
 
 ## Networking
 
-* [Why We Need TCP](networking/why-we-need-tcp.md)
+* [TCP and the Two Generals Problem](networking/tcp-and-the-two-generals-problem.md)
 
 ## Theory of Computation
 
-* [Finite Automata](theory-of-computation/finite-automata.md)
+* [Finite Automata and Pool Basketball](theory-of-computation/finite-automata-and-pool-basketball.md)
 
 ## Cryptography
 
 * [placeholder](cryptography/placeholder.md)
+
+## Others
+
+* [Life of a Developer and Civil Engineering](others/life-of-a-developer-and-civil-engineering.md)

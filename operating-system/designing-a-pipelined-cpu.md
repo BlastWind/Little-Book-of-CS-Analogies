@@ -1,2 +1,0 @@
-# Designing a Pipelined CPU
-
